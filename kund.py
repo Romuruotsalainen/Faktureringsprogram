@@ -12,3 +12,6 @@ class kunduppgifter:
         self.epost = epost
         #fakturor tar en lista med faktura-objekt
         self.fakturor = fakturor
+
+        def returnera_något():
+            None
